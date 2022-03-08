@@ -2744,6 +2744,8 @@ public class Main extends Applet implements MouseListener, ActionListener, Runna
             clearColorEmpty();
             repaint();
             
+            compMove();
+            
         }
        
         
